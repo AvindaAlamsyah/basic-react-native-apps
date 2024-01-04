@@ -62,7 +62,10 @@ const styles = StyleSheet.create({
     },
     textInput: {
         borderWidth: 1,
-        borderColor: 'lightgrey',
+        borderColor: 'white',
+        backgroundColor: 'white',
+        color: 'black',
+        borderRadius: 6,
         width: '100%',
         padding: 8,
     },
